@@ -12,7 +12,7 @@
 - **주요 목표**: Google Maps, Naver, Instagram 등 파편화된 여행 데이터를 통합하여 신뢰도 높은 정보와 대안 일정을 제공합니다.
 
 ## Tech Stack
-- **Framework**: React / React Native (Cross-Platform)
+- **Framework**: React Native (Cross-Platform)
 - **State Management**: React Query, Zustand
 - **Styling**: Tailwind CSS / Styled-components
  
